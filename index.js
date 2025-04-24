@@ -1,8 +1,9 @@
 function saludo() {
     console.log("Hola, mundo!");
 }
-function despedir(){
+function despedir() {
     console.log("adiós")
 }
-    
+
 saludo();
+despedir();
